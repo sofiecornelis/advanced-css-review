@@ -29,4 +29,7 @@ Using only CSS, make the `p`s in the `nav` green, and the `p`s in the `section`,
 Without modifying `other-style.css`, make the `h1` have a font size of 100pt, similar to:
 ![ex5](http://i.imgur.com/4k6GeUol.png)
 
+### Exercise 6:
+Create a yellow background around the contents of the paragraphs, similar to:
+![ex6](http://i.imgur.com/R1QMIIjl.png)
 
