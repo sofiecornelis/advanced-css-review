@@ -33,3 +33,5 @@ Without modifying `other-style.css`, make the `h1` have a font size of 100pt, si
 Create a yellow background around the contents of the paragraphs, similar to:
 ![ex6](http://i.imgur.com/R1QMIIjl.png)
 
+## Activity Break 3
+
