@@ -25,4 +25,8 @@ Modify the CSS to center the link, similar to:
 Using only CSS, make the `p`s in the `nav` green, and the `p`s in the `section`, similar to:
 ![ex4](http://i.imgur.com/zhQmS3hl.png)
 
+### Exercise 5:
+Without modifying `other-style.css`, make the `h1` have a font size of 100pt, similar to:
+![ex5](http://i.imgur.com/4k6GeUol.png)
+
 
