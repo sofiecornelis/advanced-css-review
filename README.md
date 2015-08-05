@@ -46,17 +46,6 @@ Some specs:
 
 #### Exercise 8
 Modify the CSS and HTML if necessary to style the page similar to:
-![ex8](http://i.imgur.com/SRzQInAl.png)
-
-Hints:
-* The solid border surrounding the page's contents is 3px and black.
-* The width of the bordered area is 80%.
-* The yellow boxes have a width of 30% with a 1% margin.
-* The gray background color is called `gainsboro`. The gray area has a margin of 30px and padding of 10px.
-
-
-#### Exercise 8
-Modify the CSS and HTML if necessary to style the page similar to:
 ![ex8](http://i.imgur.com/tAfnjZCl.png)
 
 Hints:
