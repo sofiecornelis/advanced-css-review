@@ -1,1 +1,7 @@
 /* Add CSS here! */
+nav p{
+  color: green
+}
+section p{
+    color: red
+}

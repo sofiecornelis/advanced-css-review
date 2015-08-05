@@ -1,3 +1,7 @@
-h1 {
+h1, #big {
   font-size: 100pt;
 }
+
+/*#id {
+  font-size: 100pt;
+}*/
