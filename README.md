@@ -8,15 +8,21 @@ Fork and clone this repository, then view the slides here:
 
 ## Activity Break 1
 
-1. Exercise 1:
+### Exercise 1:
 Modify the HTML (no css) so that each image appears on its own line, similar to:
 ![ex1](http://i.imgur.com/g7xyfuTl.png?1)
 
-2. Exercise 2:
+### Exercise 2:
 Modify the CSS and HTML if necessary to add a yellow highlight to both headers, similar to:
 ![ex2](http://i.imgur.com/kNXmnGkl.png)
 
-3. Exercise 3:
+### Exercise 3:
 Modify the CSS to center the link, similar to:
-![ex3](http://i.imgur.com/fNY4lU8l.png)
+![ex3](http://i.imgur.com/1bsEasXl.png)
+
+## Activity Break 2
+### Exercise 4:
+Using only CSS, make the `p`s in the `nav` green, and the `p`s in the `section`, similar to:
+![ex4](http://i.imgur.com/zhQmS3hl.png)
+
 
