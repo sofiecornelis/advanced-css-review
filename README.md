@@ -16,4 +16,7 @@ Modify the HTML (no css) so that each image appears on its own line, similar to:
 Modify the CSS and HTML if necessary to add a yellow highlight to both headers, similar to:
 ![ex2](http://i.imgur.com/kNXmnGkl.png)
 
-3. 
+3. Exercise 3:
+Modify the CSS to center the link, similar to:
+![ex3](http://i.imgur.com/fNY4lU8l.png)
+
