@@ -1,0 +1,44 @@
+a {
+  background-color: yellow;
+  display: inline-block;
+  margin: 1%;
+  width: 30%;
+}
+
+body {
+  font-family: monospace;
+  font-size: 200%;
+}
+
+#container {
+  border: 3px solid black;
+  margin: 0 auto;
+  width: 80%;
+}
+
+h1 {
+  margin: 0;
+}
+
+img {
+  width: 25%;
+}
+
+#main {
+  background-color: gainsboro;
+  margin: 30px;
+  padding: 10px;
+}
+
+#main div, img {
+  display: inline-block;
+  vertical-align: top;
+}
+
+#main div {
+  width: 70%;
+}
+
+nav {
+  text-align: center;
+}
